@@ -30,8 +30,8 @@ slave_channels = [('plugins.eh_wechat_slave', 'WeChatChannel')]
 #
 
 eh_telegram_master = {
-    "token": "12345678:QWFPGJLUYarstdheioZXCVBKM",
-    "admins": [0],
+    "token": "426973610:AAFufKvyknIh4JETfIIVgtFJjXzsdOFHNh8",
+    "admins": [375926723],
     "bing_speech_api": ["3243f6a8885a308d313198a2e037073", "2b7e151628ae082b7e151628ae08"],
     "baidu_speech_api": {
         "app_id": 0,
